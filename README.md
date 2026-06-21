@@ -1,28 +1,24 @@
 ### Muhammad Jawad Ayub Gondal
 
-i build AI systems for a living. mostly agents, RAG pipelines, and full-stack AI products.
+Agentic AI Engineer based in Islamabad. I build production AI systems — multi-surface agents, RAG pipelines, and async content generation — usually with Anthropic/OpenAI APIs, FastAPI, LangChain, and Next.js.
 
-based in islamabad. currently at MindHYVE.ai working on adaptive learning systems. open to remote AI and Forward Deployed Engineer roles, and taking on select freelance work.
+Currently building adaptive learning systems at MindHYVE.ai. Open to remote AI / Forward Deployed Engineer roles and select freelance work.
 
-**what i work on**
+**What I work on**
+- Multi-agent systems and agent orchestration (LangGraph, CrewAI, custom)
+- RAG architecture — retrieval design, evaluation, production tradeoffs
+- Full-stack AI products — FastAPI backends, Next.js frontends, vector DBs (Pinecone, Weaviate)
+- Shipping end-to-end: from API design to deployed product
 
-- multi-agent systems and orchestration (LangGraph, CrewAI, custom setups)
-- RAG architecture, with a focus on retrieval design and production tradeoffs
-- full-stack AI products using FastAPI, Next.js, Pinecone, Weaviate
-- shipping things end to end, from API design to deployed product
+**Recent**
+- 🛠 [Agentic-RAG-System](https://github.com/JawadGondal/Agentic-RAG-System) — LangGraph + Pinecone + OpenAI
+- 🎬 Reelcraft — fal.ai-powered video generation (Next.js)
+- 🎮 [Slide Worlds](https://play.google.com/store/apps/details?id=YOUR_APP_ID) — puzzle game on Google Play
 
-**recent work**
+**Background**
+MS Systems Engineering (GIK Institute) · BS Electrical Engineering (PIEAS)
 
-- [Agentic-RAG-System](https://github.com/JawadGondal/Agentic-RAG-System), built with LangGraph, Pinecone, and OpenAI
-- Reelcraft, a video generation web app powered by fal.ai and Next.js
-- Slide Worlds, a puzzle game shipped on Google Play
-
-**background**
-
-MS Systems Engineering from GIK Institute. BS Electrical Engineering from PIEAS.
-
-**reach me**
-
-- [jawadgondal.com](https://jawadgondal.com) (coming soon)
-- [LinkedIn](https://www.linkedin.com/in/m-jawad-ayub-gondal-91103617a)
-- your.email@example.com
+**Reach me**
+- 🌐 [jawadgondal.com](https://jawadgondal.com) *(coming soon)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/m-jawad-ayub-gondal-91103617a)
+- ✉️ your.email@example.com
