@@ -21,4 +21,4 @@ MS Systems Engineering (GIK Institute) · BS Electrical Engineering (PIEAS)
 **Reach me**
 - 🌐 [jawadgondal.com](https://jawadgondal.com) *(coming soon)*
 - 💼 [LinkedIn](https://www.linkedin.com/in/m-jawad-ayub-gondal-91103617a)
-- ✉️ your.email@example.com
+- ✉️ jawadayubgondal@gmail.com
